@@ -1,0 +1,13 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/trevi/Documents/GitHub/FightorFish-4.26/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap",
+				"C:/Users/trevi/Documents/GitHub/FightorFish-4.26/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset"
+			]
+		}
+	]
+}
